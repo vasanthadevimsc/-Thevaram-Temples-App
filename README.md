@@ -12,17 +12,17 @@ A comprehensive spiritual Android application designed to help devotees explore 
 
 The comprehensive dataset for the 275+ Shiva Temples was meticulously curated from the following authentic literary sources:
 
-# 📖 Panniru Tirumurai (பன்னிரு திருமுறை): Primary source for all the hymns (Pathigams) attributed to the 274 Shiva Sthalams.
+ 📖 Panniru Tirumurai (பன்னிரு திருமுறை): Primary source for all the hymns (Pathigams) attributed to the 274 Shiva Sthalams.
 
-# 📖 Thevaram Sthala Varalaru (தேவாரத் தல வரலாறு): Traditional guidebooks containing the historical and puranic background of each            temple.
+ 📖 Thevaram Sthala Varalaru (தேவாரத் தல வரலாறு): Traditional guidebooks containing the historical and puranic background of each            temple.
 
-# 📖 Shaivite Literature & temple journals: Verified details regarding temple architecture, sacred trees (Sthala Vriksham), and sacred              waters(Theertham).
+ 📖 Shaivite Literature & temple journals: Verified details regarding temple architecture, sacred trees (Sthala Vriksham), and sacred              waters(Theertham).
 
-# 🌍 Dharumai Adheenam: For authentic historical records of the 274 Shiva Sthalams.
+ 🌍 Dharumai Adheenam: For authentic historical records of the 274 Shiva Sthalams.
 
-# 🌍 Shaivam.org: For detailed information on temple hymns (Pathigams) and saint-poets.
+ 🌍 Shaivam.org: For detailed information on temple hymns (Pathigams) and saint-poets.
 
-# 🌍 Thevaram Digital Archives: For accurate geographical coordinates and structural details of the temples.
+ 🌍 Thevaram Digital Archives: For accurate geographical coordinates and structural details of the temples.
 
 
 # ✨ Features:-
